@@ -12,11 +12,11 @@ For the most recent updates and ongoing developments, visit:
 
 - [Development](https://github.com/smart-education-gamelab/ChemLab-Explorer/tree/development): Featuring the latest changes and work-in-progress updates.
 
-### First Demo
+### First Version
 
 After the [initial design](https://docs.google.com/document/d/1i9Ew5obKst7XJp2r2Srqa-RJWu-ENT320Ws-3eDMpsk/edit?pli=1) of ChemLab Explorer, a demo was developed:
 
-- [First Demo](https://github.com/smart-education-gamelab/ChemLab-Explorer/tree/first_demo): Offers tooling for users to add custom questions.
+- [First Version](https://github.com/smart-education-gamelab/ChemLab-Explorer/tree/first-version): Offers tooling for users to add custom questions.
 
 ---
 ### Credits
