@@ -4,4 +4,8 @@ Welcome to the **First Version Branch** of the ChemLab Explorer repository. This
 
 The build of the game can be found [here](https://github.com/smart-education-gamelab/ChemLab-Explorer/blob/first-version/Build.zip).
 
+The very first demo video can be found [here](https://www.youtube.com/watch?v=2qOvPYS94G4).
+
+The first assignment demo (this version) can be found [here](https://www.youtube.com/watch?v=RlhL0PIuyog).
+
 [Back to Main Branch](https://github.com/smart-education-gamelab/ChemLab-Explorer)
